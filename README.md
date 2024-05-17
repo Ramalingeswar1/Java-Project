@@ -1,7 +1,8 @@
 **Online Examination System**
+
 This project is an Online Examination System developed using Java, Servlets, JSP, and MySQL. It allows administrators to manage exams, questions, and students, and students to take exams online.
 
-**-Features**
+**Features**
 ---------
 **Admin Panel:** Allows administrators to login, add, update, and delete instructions, questions, and students.
 **Student Panel:** Allows students to login, view instructions, take exams, and view their results.
@@ -22,13 +23,13 @@ MySQL
 Create a MySQL database named online_exam.
 Import the database schema from the db folder.
 Update the database connection details in exam.database.Provider.
-**
-IDE Setup:**
+
+**IDE Setup:**
 
 Import the project into your preferred IDE (Eclipse, IntelliJ IDEA, etc.).
 Ensure you have Apache Tomcat configured in your IDE.
-**
-Run the Application:**
+
+**Run the Application:**
 
 Start your MySQL server.
 Deploy the project to your Tomcat server.
