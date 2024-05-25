@@ -1,6 +1,6 @@
 **Online Examination System**
 
-This project is an Online Examination System developed using Java, Servlets, JSP, and MySQL. It allows administrators to manage exams, questions, and students, and students to take exams online.
+This project is an Online Examination System developed using Java, Servlets, JSP, CSS and MySQL. It allows administrators to manage exams, questions, and students, and students to take exams online.
 
 **Features**
 ---------
